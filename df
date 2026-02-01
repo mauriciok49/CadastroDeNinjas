@@ -1,0 +1,35 @@
+[33mcommit 9b8d3f0c6c570d4d262731ab3166cacdc71e6b5b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mAula2[m[33m, [m[1;31morigin/Aula2[m[33m)[m
+Author: mauriciok49 <mauriciocerqueirak49@gmail.com>
+Date:   Wed Nov 19 10:20:10 2025 -0300
+
+    fix: coloca a coluna de email como UNIQUE
+
+[33mcommit 5d03123a71da3fc2dffba7a0913ec4f2c239cc86[m
+Author: mauriciok49 <mauriciocerqueirak49@gmail.com>
+Date:   Wed Nov 19 10:13:38 2025 -0300
+
+    feat: Coloca Lombok na classe para abstracao
+
+[33mcommit d588c2882a7797f36d4987eb0f0f62d08965768e[m
+Author: mauriciok49 <mauriciocerqueirak49@gmail.com>
+Date:   Sat Nov 15 16:18:53 2025 -0300
+
+    Modelagem do banco de dados, NinjaModel e MissoesModel Concluidos, anotations feitas para relacionamento de tabelas
+
+[33mcommit e776c3ab1fb90ce308beb06b9df6b46b5f386f77[m
+Author: mauriciok49 <mauriciocerqueirak49@gmail.com>
+Date:   Thu Nov 13 09:45:46 2025 -0300
+
+    Cria uma entidade no banco de dados apartir do NinjaModel [Aula3]
+
+[33mcommit 82320008b6c516f4ceaee06d46724fd7a031fc1f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: mauriciok49 <mauriciocerqueirak49@gmail.com>
+Date:   Wed Nov 12 18:39:00 2025 -0300
+
+    Criado a controller [Aula2]
+
+[33mcommit 0b46bcc7bcaf6e7b8e91748daa61603fa5ca7a75[m
+Author: mauriciok49 <mauriciocerqueirak49@gmail.com>
+Date:   Wed Nov 12 17:52:29 2025 -0300
+
+    first commit
